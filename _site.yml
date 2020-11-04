@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/Senghor29/Senghor_blog
-base_url: https://Senghor29.github.io/Senghor_blog/
+base_url: http://Senghor29.github.io/Senghor_blog/
 collections:
     posts:
       disqus: senghor-blog
