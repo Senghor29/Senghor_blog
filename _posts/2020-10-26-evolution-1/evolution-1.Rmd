@@ -1,5 +1,5 @@
 ---
-title: "Happiness and the evolution of brain size"
+title: Article 1 : "Happiness and the evolution of brain size"
 description: |
   What are the mecanics of brain evolution ?.
 author:
