@@ -14,7 +14,7 @@ navbar:
 base_url: https://Senghor29.github.io/Senghor_blog/
 collections:
     posts:
-      disqus: senghor-blog
+      disqus: senghor-blog-1
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
