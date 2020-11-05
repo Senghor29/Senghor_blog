@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: http://github.com/Senghor29/Senghor_blog
-base_url: http://senghor29.github.io/Senghor_blog/
+      href: https://github.com/Senghor29/Senghor_blog
+base_url: https://senghor29.github.io/Senghor_blog/
 collections:
     posts:
       disqus: senghor-blog
