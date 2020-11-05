@@ -14,10 +14,8 @@ navbar:
 base_url: http://Senghor29.github.io/Senghor_blog/
 collections:
     posts:
+      disqus: senghor-blog
       share: [twitter, linkedin, facebook]
-      disqus:
-        shortname: senghor-blog
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css
