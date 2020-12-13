@@ -1,0 +1,48 @@
+---
+title: "Article 2 : Humain speech evolution gets lip-smacking evidence"
+description: |
+  How humain develop the speech ?
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Source of the article with publication date and word count:
+Source of the article: https://www.scientificamerican.com/podcast/episode/human-speech-evolution-gets-lip-smacking-evidence/
+
+Date: June 16 2020
+
+Word count: 474
+
+# VOCABULARY:
+|  			Word from the text 		 |  			Synonym/definition in English  			 		                                                                                                                                                                                   |  			French translation  			 		                    |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+|  			behaviour 		          |  			Def: 			The 			manner of behaving the 			activity of a human or animal that can be observed.  			 Syn: 			behaviour (UK), conduct , bearing , deportment, actions, ways, habits, practices, demeanor , demeanour (UK), manners 			 			 		 |  			Comportement , 			conduite  			 		               |
+|  			occurs 		             |  			From 			the verb occur  			 Syn : 			happen 		                                                                                                                                                                                |  			se 			produire, apparaître, se présenter  			 		 |
+|  			portrayed 		          |  			to 			make a portrait.  			  				  				to 				describe in words, esp. in a certain way  				  				Syn : 				characterize 				 				 			  			   			 		                                                                                                                |  			représenter 		                             |
+|  			remained 		           |  			to 			continue to be as specified  			  			 Syn : 			stay 			behind 			 			 		                                                                                                                                                            |  			Continuer 			à être 		                        |
+|  			namely 		             |  			that 			is, particularly , specifically , especially 		                                                                                                                                                                 |  			à 			savoir 			 			 		                              |
+|  			cornerstone 		        |  			keystone, foundation , capstone, base , basis  			 			 		                                                                                                                                                                  |  			pierre 			angulaire  			 		                      |
+|  			grooming 		           |  			 to 			tend (itself or another) by removing dirt or unwanted tiny 			organisms from the fur, skin, feathers, etc. 			 			  			 Syn : 			clean , clean 			up, wash , wash 			up  			 		                                                          |  			toilettage 			 			 		                            |
+|  			idle 		               |  			while 			away time, be lazy, kill time, waste 			time, laze, laze around, laze about (UK) 			 			 		                                                                                                                             |  			sans 			intérêt   			 		                         |
+|  			hardwired 		          |  			progammed 		                                                                                                                                                                                                         |  			câblé 		                                   |
+|  			rather 		             |  			I 			should say so!, certainly , of 			course, most assuredly (formal) 			 			 		                                                                                                                                                |  			plutôt, 			assez  			 		                         |
+
+# ANALYSIS TABLE ABOUT THE STUDY:
+|  			Researchers?  			 		                       |  			A 			team of researchers in Great Britain 			lead by Adriano 			Lameira of the University of Warwick 			 			 		                                                                                                |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  			Published in? when (if mentioned)?  			 		 |  			On June 			16, 2020  			   			 		                                                                                                                                                                        |
+|  			General topic  			 		                      |  			how 			we humans learned to talk during our evolution. 		                                                                                                                                          |
+|  			Procedure/ what was examined  			 		       |  			They 			made observation when the chimpanzees are grooming another.  			 		                                                                                                                           |
+|  			Conclusions/ discovery  			 		             |  			  				  					The 					researchers 					have demonstrated how the rapid succession of opening and 					closing-mouth rhythms by chimpanzees 					known 					as “lip smacking” mimics the natural pace of human mouths 					talking 				 			 		 |
+|  			Remaining questions  			 		                |  			/ 		                                                                                                                                                                                            |

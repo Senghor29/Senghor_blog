@@ -1,0 +1,46 @@
+---
+title: "Article 3: Identical evolution of isolated organisms : Parallel evolution of conodonts "
+description: |
+  How organisms evolve from different place ?
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Source of the article with publication date and word count:
+Source of the article:  https://www.sciencedaily.com/releases/2020/11/201123085322.htm
+
+Date: November 23, 2020
+
+Word count: 574
+
+# VOCABULARY:
+|  			Word 			from the text 		 |  			Synonym/definition 			in English  			 		                                                                                                   |  			French 			translation  			 		                    |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+|  			stocky 		             |  			1.of 			sturdy form or build;  thickset.  			  				  				2.having 				a strong, stout stem, as a plant 			  			   			 		                                        |  			trapu, 			râblé  			 		                          |
+|  			streamlined 		        |  			Def : 			made more efficient, esp by simplifying  			  			Syn : 			modernized, sleek , contoured, smooth , simplified, efficient , improved 			 			 		 |  			simplifié 			 			 		                             |
+|  			cichlid 		            |  			any 			of the spiny-rayed, freshwater fishes constituting the family 			Cichlidae, of South America, Africa, and southern Asia 			 			 		        |               cichlidé  			   			 		              |
+|  			eel 		                |  			/ 		                                                                                                                                 |  			anguilles 		                               |
+|  			painstaking 		        |  			scrupulous, exacting, meticulous, 			 			 		                                                                                               |  			pointilleux, 			minutieux, méticuleux  			 		    |
+|  			samples 		            |  			sampling , portion , piece , fragment, cross 			section, biopsy, assay, fraction, part , cutting 			 			 		                                   |  			échantillons 		                            |
+|  			lineages 		           |  			Syn : 			forefathers, ancestors, progenitors 			 			  			 Def : 			the 			line of descendants of a particular ancestor;  family;  race 			 			 		            |  			Lignée, 			origine, ancêtres, ascendance  			 		 |
+|  			effectiveness 		      |  			able 			to accomplish a purpose  			 		                                                                                                    |  			efficacité 			 			 		                            |
+
+# ANALYSIS TABLE ABOUT THE STUDY:
+|  			Researchers?  			 		                       |  			-Palaeontologists 			at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and 			the University of Calgary in Canada.  			  			-Emilia 			Jarochowska  			  			-The 			researchers from Erlangen  			 		                                                                                                                                                                                                                                                                                                      |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  			Published in? when (if mentioned)?  			 		 |  			ScienceDaily, 			23 November 2020  			 		                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|  			General topic  			 		                      |  			Researchers 			have provided a new proof of parallel evolution. 		                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|  			Procedure/ what was examined  			 		       |  			The 			Canadian researchers had collected fossilised Sweetognathus teeth 			from various locations across the world, including Bolivia and 			Russia.  			  			  			The 			fossils measuring a mere two to three millimetres in length were 			scanned at GeoZentrum Nordbayern in a scanner with a spatial 			resolution of four micrometres, which delivers even higher 			definition pictures than a CT in a hospital. Then precise 3D 			models and mathematical descriptions were made of more than 40 			samples.  			 		 |
+|  			Conclusions/ discovery  			 		             |  			 They 			were able to prove that 2 lines of Sweetognathus 			in 2 different regions of the world followed the same development. 			Which is further proof of the theory of evolution  			 		                                                                                                                                                                                                                                                                                                         |
+|  			Remaining questions  			 		                |  			/ 		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

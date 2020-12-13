@@ -1,0 +1,48 @@
+---
+title: "Article 4: An evolutionary roll of the dice explains why we're not perfect "
+description: |
+  Why do we still have imperfections?
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Source of the article with publication date and word count:
+Source of the article: https://www.sciencedaily.com/releases/2020/09/200909114752.htm
+
+Date: September 9, 2020 
+
+Word count: 590
+
+# VOCABULARY:
+|  			Word from the text 		 |  			Synonym/definition in English  			 		                |  			French translation  			 		                           |
+|----------------------|--------------------------------------------------|--------------------------------------------------|
+|  			allowing 		           |  			permit 			 			 		                                       |  			permettre 			 			 		                                    |
+|  			creep 		              |  			to 			approach slowly and without being noticed 			 			 		 |  			se 			faufiler 			,       			  			 s’infiltrer 		             |
+|  			dice 		               |  			cubes 			 			 		                                        |  			dé 		                                             |
+|  			commonly 		           |  			usually , ordinarily, generally ,  			 			 		           |  			généralement 			 			 		                                 |
+|  			tend 		               |  			be 			susceptible, have a tendency 			 			 		              |  			avoir 			tendance à faire 			, être 			enclin à faire 			 			 		 |
+|  			yeast 		              |  			fungus, raising 			agent 			 			 		                        |  			levure 		                                         |
+|  			rusting 		            |  			corrosion, oxidation, decomposition 			 			 		          |  			rouillé 		                                        |
+|  			accretions 		         |  			accumulation, growth , addition 			 			 		              |  			accumulation 		                                   |
+|  			sustain 		            |  			maintain , keep 			up 			,conserve, prolong 			 			 		        |  			maintenir 			 			 		                                    |
+|  			diseases 		           |  			Sickness  			, infection 			,pathology 			, virus 			 			 		     |  			maladies 		                                       |
+
+# ANALYSIS TABLE ABOUT THE STUDY:
+|  			Researchers?  			 		                       |  			- 			Scientists at the Milner Centre for Evolution at the University of 			Bath  			 - 			 Alex Ho and Laurence Hurst  			 - 			 			 		                                                                                                                                                               |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  			Published in? when (if mentioned)?  			 		 |  			 ScienceDaily, 			9 September 2020 			 			 		                                                                                                                                                                                                                                             |
+|  			General topic  			 		                      |  			If 			evolution selects for the fittest organisms, why do we still have 			imperfections?  			 		                                                                                                                                                                                         |
+|  			Procedure/ what was examined  			 		       |  			- 			They analysed the genomes of a wide range of organisms, from 			mammals to single-celled algae. They compared the genetic 			instructions used by cells to make proteins -- specifically the 			code at the end of the gene that tells the cell to stop reading, 			called stop codons. 		 |
+|  			Conclusions/ discovery  			 		             |  			  				  					They 					have found that in species with small populations, chance events 					take precedence over natural selection, allowing imperfections 					to creep 					in. 				 			 		                                                                                                                       |
+|  			Remaining questions  			 		                |  			/ 		                                                                                                                                                                                                                                                                             |
