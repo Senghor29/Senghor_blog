@@ -1,7 +1,7 @@
 ---
 title: "Article 4: An evolutionary roll of the dice explains why we're not perfect "
 description: |
-  Why do we still have imperfections?
+  Why do we still have imperfections ?
 author:
   - name: Senghor Kahungu Pombo
 date: "`r Sys.Date()`"
