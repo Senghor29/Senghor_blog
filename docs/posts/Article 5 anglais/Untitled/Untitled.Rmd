@@ -1,0 +1,54 @@
+---
+title: "Article 
+description: |
+ 
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Source of the article with publication date and word count:
+Source of the article:  https://www.sciencedaily.com/releases/2021/02/210219124242.htm
+
+Date: February 19, 202 
+
+Word count: 502 
+# VOCABULARY:
+
+Word from the text & Synonym/definition in English                                                                                   & French translation       \\
+amber              & a 			yellow, red, or brown translucent fossil resin used in jewelry.                                            & ambre                    \\
+oozing             & to 			flow or pass slowly or gradually                                                                          & Qui 			coule             \\
+coniferous         & belonging 			to the plant phylum Coniferophyta                                                                  & conifère                 \\
+pristine           & not 			corrupted or made dirty                                                                                  & Pur, 			immacullé        \\
+insights           & perception                                                                                                      & apperçu                  \\
+feasting           & any 			rich or large meal                                                                                       & Festoyer, 			se régaler  \\
+chunk              & Piece, 			part                                                                                                  & morceau                  \\
+dung               & excrement, 			esp. of animals                                                                                   & Crotin, 			bouse, fumier \\
+nearby             & \next 			to\\  neighboring\                                               & À 			proximité           \\
+caterpillar        & a 			small wormlike animal with a long body separated in parts 			, eventually 			becoming a butterfly or moth. & chenille                
+
+# ANALYSIS TABLE ABOUT THE STUDY:
+Researchers?
+- Viktor Baranov
+- Joachim Haug
+Published in? when (if mentioned)?
+A 100 million-year-old armoured caterpillar supports the early diversification of moths and butterflies. Gondwana Research
+General topic
+The study of the evolution of the environement and the former type of insects.
+Procedure/ what was examined
+The researchers examined some samples of amber from the Baltic region and Myanmar.
+Conclusions/ discovery
+        ​ They discovered that the dung is full of plant residues, which implies the presence of at least moderately large herbivores in these forests.
+        ​ The researchers assume that there must have been open areas of grassland nearby
+Remaining questions
+/
