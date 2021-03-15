@@ -1,0 +1,82 @@
+---
+title: "Article 6 : Rapid evolution may help species adapt to climate change and competition "
+description: |
+  How rapid evolution can help species ?
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Source of the article with publication date and word count:
+Source of the article: https://www.sciencedaily.com/releases/2021/02/210222082631.htm
+
+Date:   February 22, 2021
+
+Word count: 569
+
+# VOCABULARY:
+Word from the text
+Synonym/definition in English
+French translation
+Worldwide
+International , global
+mondial
+displace
+Substitute
+remplacer
+recognized
+Remember, identify
+reconnaître
+whether
+if
+si
+exposure
+exhibition
+exposition
+orchard
+Agriculturean area of land used for the growing of fruit or nut trees
+verger
+fewer
+not many, not too many, less
+Moin de
+ threatened
+unsafe, in danger
+Menacé, danger
+summarized
+to state or express in a brief but complete form
+résumer
+outcomes
+result
+résultat
+
+
+# ANALYSIS TABLE ABOUT THE STUDY:
+Researchers?
+Seth Rudman
+Tess Grainger
+Jonathan M. Levine
+Paul Schmidt
+Published in? when (if mentioned)?
+Results were published in the Proceedings of the National Academy of Sciences as "Competitive history shapes rapid evolution in a seasonal climate.
+General topic
+How species evolve in response to their environment and adapt to new invasive species
+
+Procedure/ what was examined
+The investigators chose to examine fruit flies, which reproduce quickly, allowing change to be observed over several generations in a matter of months. The team focused on two species: one naturalized in North American orchards (Drosophila melanogaster) and one that has recently started to invade North America.
+Researchers put the native species in contact with an invasive species in the summer to see how it adapts
+Conclusions/ discovery
+        ​ Scientists have increasingly recognized that evolution is not necessarily slow and often occurs quickly enough to be observed in real time.
+        ​ These rapid evolutionary changes can have major consequences for things like species' persistence and responses to climatic change.
+Remaining questions
+/
+
