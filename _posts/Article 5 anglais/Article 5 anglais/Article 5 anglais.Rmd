@@ -26,32 +26,26 @@ Word count: 502
 
 # VOCABULARY:
 
-\begin{table}[]
-\begin{tabular}{lll}
-Word from the text & Synonym/definition in English                                                                                   & French translation       \\
-amber              & a 			yellow, red, or brown translucent fossil resin used in jewelry.                                            & ambre                    \\
-oozing             & to 			flow or pass slowly or gradually                                                                          & Qui 			coule             \\
-coniferous         & belonging 			to the plant phylum Coniferophyta                                                                  & conifère                 \\
-pristine           & not 			corrupted or made dirty                                                                                  & Pur, 			immacullé        \\
-insights           & perception                                                                                                      & apperçu                  \\
-feasting           & any 			rich or large meal                                                                                       & Festoyer, 			se régaler  \\
-chunk              & Piece, 			part                                                                                                  & morceau                  \\
-dung               & excrement, 			esp. of animals                                                                                   & Crotin, 			bouse, fumier \\
-nearby             & \begin{tabular}[c]{@{}l@{}}next 			to\\  neighboring\end{tabular}                                               & À 			proximité           \\
-caterpillar        & a 			small wormlike animal with a long body separated in parts 			, eventually 			becoming a butterfly or moth. & chenille                
-\end{tabular}
-\end{table}
+|  			Word from the text 		 |  			Synonym/definition in English 		                                                                          |  			French translation 		    |
+|----------------------|----------------------------------------------------------------------------------------------------------|-------------------------|
+|  			amber 		              |  			a 			yellow, red, or brown translucent fossil resin used in jewelry. 		                                      |  			ambre 		                 |
+|  			oozing 		             |  			to 			flow or pass slowly or gradually 		                                                                    |  			Qui 			coule 		             |
+|  			coniferous 		         |  			belonging 			to the plant phylum Coniferophyta 		                                                            |  			conifère 		              |
+|  			pristine 		           |  			not 			corrupted or made dirty 		                                                                            |  			Pur, 			immacullé 		        |
+|  			insights 		           |  			perception 		                                                                                             |  			apperçu 		               |
+|  			feasting 		           |  			any 			rich or large meal 		                                                                                 |  			Festoyer, 			se régaler 		  |
+|  			 chunk 		             |  			Piece, 			part 		                                                                                            |  			morceau 		               |
+|  			dung 		               |  			excrement, 			esp. of animals 		                                                                             |  			Crotin, 			bouse, fumier 		 |
+|  			nearby 		             |  			next 			to  neighboring 		                                                                                   |  			À 			proximité 		           |
+|  			caterpillar 		        |  			a 			small wormlike animal with a long body separated in parts 			, eventually 			becoming a butterfly or moth. 		 |  			chenille 		              |
 
 # ANALYSIS TABLE ABOUT THE STUDY:
 
-\begin{table}[]
-\begin{tabular}{ll}
-Researchers?                       & \begin{tabular}[c]{@{}l@{}}- 			Viktor Baranov\\  			\\  			- 			Joachim Haug\end{tabular}                                                                                                                                                                                                                   \\
-Published in? when (if mentioned)? & A 			100 million-year-old armoured caterpillar supports the early 			diversification of moths and butterflies. Gondwana 			Research                                                                                                                                                                          \\
-General topic                      & The 			study of the evolution of the environement and the former type of 			insects.                                                                                                                                                                                                                         \\
-Procedure/ what was examined       & The 			researchers examined some samples of amber from the Baltic region 			and Myanmar.                                                                                                                                                                                                                     \\
-Conclusions/ discovery             & \begin{tabular}[c]{@{}l@{}}They 					discovered that the dung is full of plant residues, which 					implies the presence of at least moderately large herbivores in 					these forests. 					\\  					The 					researchers assume that there must have been open areas of 					grassland nearby\end{tabular} \\
-Remaining questions                & /                                                                                                                                                                                                                                                                                                           
-\end{tabular}
-\end{table}
+|  			Researchers? 		                       |  			- 			Viktor Baranov  			  			- 			Joachim Haug 		                                                                                                                                                                                                    |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  			Published in? when (if mentioned)? 		 |  			A 			100 million-year-old armoured caterpillar supports the early 			diversification of moths and butterflies. Gondwana 			Research 		                                                                                                            |
+|  			General topic 		                      |  			The 			study of the evolution of the environement and the former type of 			insects. 		                                                                                                                                                        |
+|  			Procedure/ what was examined 		       |  			The 			researchers examined some samples of amber from the Baltic region 			and Myanmar. 		                                                                                                                                                    |
+|  			Conclusions/ discovery 		             |  			  				  					They 					discovered that the dung is full of plant residues, which 					implies the presence of at least moderately large herbivores in 					these forests. 					  					The 					researchers assume that there must have been open areas of 					grassland nearby 				 			 		 |
+|  			Remaining questions 		                |  			/ 		                                                                                                                                                                                                                                     |
 
