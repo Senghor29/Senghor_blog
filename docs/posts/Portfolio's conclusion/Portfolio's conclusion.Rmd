@@ -1,0 +1,23 @@
+---
+title: "Portfolio's conclusion "
+description: |
+  
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# conclusion :
+
+In conclusion, I have learnt a lot of thing through this seven articles First of all I learned how serotonin had influenced the development of our brain, allowing it to have such a size.
+I also learned that there were similarities between chipanzees and humans, particularly in terms of language. Then I learned that evolution could act on any part of the planet and that some species could evolve identically to others while they are geographically separated. And finally I discovered that the biggest factor influencing evolution was the environment, indeed the species change in order to be able to be adapted to it.
+
