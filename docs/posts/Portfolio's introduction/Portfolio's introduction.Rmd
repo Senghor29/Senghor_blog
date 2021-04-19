@@ -1,0 +1,22 @@
+---
+title: "Portfolio's introduction "
+description: |
+  
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Introduction :
+
+To beginning, The topic of my portfolio is the evolution. I chose this topic because as a biologist it is a branch of biology that I would like to study later. Indeed it is a field that I find particularly interesting to study, moreover it is also a branch of biology where there are still many mysteries and mechanisms which are not yet elucidated, it is for that that I particularly like evolution because there is still a lot to discover. Knowing the mechanisms of evolution, knowing in its environment it occurs, on which species it acts, when evolution transforms species, what transformations it operates. These are all questions that we must strive to answer to elucidate the mystery of life because evolution concerns each species on the planet and teaches us more about our own history and that of the planet.
+

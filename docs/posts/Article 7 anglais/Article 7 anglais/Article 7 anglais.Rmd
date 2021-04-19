@@ -1,0 +1,51 @@
+---
+title: "Article 7 : Ecological interactions as a driver of evolution "
+description: |
+  What are the interactions who drive evolution ?
+author:
+  - name: Senghor Kahungu Pombo
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Source of the article with publication date and word count:
+Source of the article: https://www.sciencedaily.com/releases/2021/02/210209113822.htm
+
+Date:  February 9, 2021
+
+Word count: 536
+
+# VOCABULARY:
+
+|  			Word from the text 		 |  			Synonym/definition in English  			 		 |  			French translation  			 		           |
+|----------------------|-----------------------------------|----------------------------------|
+|  			consumption 		        |  			utilisation, usage 			 			 		            |  			consommation 			 			 		                 |
+|  			poisonous 		          |  			Venomous 			, toxic 		                |  			Empoisonné,toxique, 			vénéneux  			 		 |
+|  			compounds 		          |  			compounded, mixed 			 			 		             |  			Mélange 			, composition 		          |
+|  			subsequently 		       |  			Consequently 			, after, next 		      |  			Ensuite, 			par la suite 		          |
+|  			retained 		           |  			Preserved 			, kept 		                |  			Conserver, 			contenir, retenir 		   |
+|  			knowledge 		          |  			Learning, 			information, 			 			 		        |  			connaissance 			 			 		                 |
+|  			 			deciphered 		        |  			decode, interpret 			 			 		             |  			déchiffrer 			 			 		                   |
+
+# ANALYSIS TABLE ABOUT THE STUDY:
+
+|  			Researchers?  			 		                       |  			Stefan 			Wanke an international team of researchers including TUD botanist 			Prof  			 		                                                 |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|  			Published in? when (if mentioned)?  			 		 |  			The 			results of the study were recently published in the international 			journal Nature Communications.  			 		                          |
+|  			General topic  			 		                      |  			Understanding 			the interaction of organisms in the evolution of species 		                                                          |
+|  			Procedure/ what was examined  			 		       |  			Stephan 			Wanke has established the link between ecological changes, 			genome-level adaptations and macroevolutionary consequences. 		 |
+|  			Conclusions/ discovery  			 		             |  			  				 The scientists show that the evolutionary success of insects may be linked to recurrent changes in host plants. 				 			 		            |
+|  			Remaining questions  			 		                |  			/ 		                                                                                                                               |
+
+
+
+
